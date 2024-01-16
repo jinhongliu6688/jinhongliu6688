@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋🏻 Hi! I am Jinhong Liu
+
+### Feel free check out my Personal/Portfolio Website: https://jinhongliu.vercel.app/ if you want to know more about me! Thank you!
 
 <!--
 **jinhongliu6688/jinhongliu6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
